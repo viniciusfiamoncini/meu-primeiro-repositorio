@@ -1,3 +1,5 @@
 print ('Olá, mundo!')
 print('Testando alterações no github')
 print('Mais uma alteração')
+print('Teste com comandos git')
+print('Teste com comandos git2')
